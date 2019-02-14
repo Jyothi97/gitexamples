@@ -1,6 +1,6 @@
-def mypy(z):
+def mypy(y):
 	sdfasdf
 
-	return(z**2)
+	return(y**2)
 
 print(mypy(3))
